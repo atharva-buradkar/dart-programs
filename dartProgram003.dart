@@ -10,3 +10,4 @@ void main() {
   
   print('The number $number is ${number%2 == 0 ? 'even' : 'odd'}');
 }
+
